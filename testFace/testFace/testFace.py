@@ -11,10 +11,10 @@ from firebase_admin import credentials , firestore
 import pusher
 """
 pusher_client = pusher.Pusher(
- app_id = "952575",
-key = "b4f61b9d66c07ac712fe",
-secret = "5b4cf7342c791757772a",
-cluster = "ap2"
+ app_id = "",
+key = "",
+secret = "",
+cluster = ""
 )
 """
 
